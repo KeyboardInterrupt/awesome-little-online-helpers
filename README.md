@@ -1,4 +1,4 @@
-# Awesome litle online helpers
+# Awesome little online helpers
 
 > A collaborative curated list of awesome little online helpers and tools.
 
