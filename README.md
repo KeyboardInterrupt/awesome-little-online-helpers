@@ -8,6 +8,7 @@
 
 - [regular expressions 101](https://regex101.com/) - A great online tool for writing and testing Regular expressions.
 - [YAML Multiline Strings](https://yaml-multiline.info/) - Find the right syntax for your YAML multiline strings.
+- [gitignore.io](https://www.toptal.com/developers/gitignore) - Create useful .gitignore files for your project.
 
 ### IT Administration
 
