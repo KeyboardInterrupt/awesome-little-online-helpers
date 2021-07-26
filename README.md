@@ -18,3 +18,4 @@
 - [MySQL Memory Calculator](https://www.mysqlcalculator.com/) -  Calculate the maximum MySQL memory usage based on settings in your my.cnf file.
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/) - An easy-to-use secure configuration generator for web, database, and mail software.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
+- [endoflife.date](https://endoflife.date) - This site maintains quick links for checking End Of Life dates for various tools and technologies.
