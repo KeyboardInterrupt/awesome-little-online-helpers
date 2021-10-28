@@ -6,6 +6,7 @@
 - [IT Professions](#it-professions)
     - [Programming](#programming)
     - [IT Administration](#it-administration)
+    - [Web Development/Design](#web-developmentdesign)
 
 ## IT Professions
 
@@ -24,3 +25,11 @@
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/) - An easy-to-use secure configuration generator for web, database, and mail software.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - A comprehensive free SSL test for your public web servers.
 - [endoflife.date](https://endoflife.date) - This site maintains quick links for checking End Of Life dates for various tools and technologies.
+
+### Web Development/Design
+- [Animista](https://animista.net/) - A collection of pre-made CSS animations, tweak them and you will be able to copy and paste the code into your website.
+- [BGjar](https://bgjar.com/) - A free SVG background generator for websites, blogs, and apps.
+- [DevSamples](https://www.devsamples.com/) - DevSamples is a list of code samples for you to copy and paste into your projects as needed.
+- [Meta Tags](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more.
+- [Undesign](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers.
+- [CSS Generator Tool](https://cssgenerator.org/) - A CSS generator that helps you demonstrate and quickly generate CSS declarations for your website.
