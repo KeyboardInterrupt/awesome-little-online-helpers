@@ -1,6 +1,11 @@
-# Awesome little online helpers
+# Awesome Little Online Helpers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collaborative curated list of awesome little online helpers and tools.
+
+## Contents
+- [IT Professions](#it-professions)
+    - [Programming](#programming)
+    - [IT Administration](#it-administration)
 
 ## IT Professions
 
