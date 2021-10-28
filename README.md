@@ -6,6 +6,7 @@
 - [IT Professions](#it-professions)
     - [Programming](#programming)
     - [IT Administration](#it-administration)
+    - [Web Development/Design](#web-developmentdesign)
 
 ## IT Professions
 
