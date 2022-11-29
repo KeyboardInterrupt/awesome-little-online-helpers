@@ -29,6 +29,8 @@
 - [endoflife.date](https://endoflife.date) - This site maintains quick links for checking End Of Life dates for various tools and technologies.
 
 ### Web Development/Design
+- [www.urlencoder.io](https://www.urlencoder.io/) - This helps with quickly encoding URL's.
+- [www.urldecoder.io](https://www.urldecoder.io/) - This helps with quickly decoding URL's.
 - [Animista](https://animista.net/) - A collection of pre-made CSS animations, tweak them and you will be able to copy and paste the code into your website.
 - [BGjar](https://bgjar.com/) - A free SVG background generator for websites, blogs, and apps.
 - [DevSamples](https://www.devsamples.com/) - DevSamples is a list of code samples for you to copy and paste into your projects as needed.
