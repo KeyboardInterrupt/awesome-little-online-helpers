@@ -7,6 +7,7 @@
     - [Programming](#programming)
     - [IT Administration](#it-administration)
     - [Web Development/Design](#web-developmentdesign)
+    - [Investigate suspicious URLs & Files](#investigate-suspicious-urls--files)
 
 ## IT Professions
 
@@ -37,3 +38,7 @@
 - [Meta Tags](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more.
 - [Undesign](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers.
 - [CSS Generator Tool](https://cssgenerator.org/) - A CSS generator that helps you demonstrate and quickly generate CSS declarations for your website.
+
+### Investigate suspicious URLs & Files
+
+- [Virus Total](https://www.virustotal.com/gui/home/url) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
