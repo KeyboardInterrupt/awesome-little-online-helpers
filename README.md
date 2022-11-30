@@ -8,6 +8,7 @@
     - [IT Administration](#it-administration)
     - [Web Development/Design](#web-developmentdesign)
     - [Investigate suspicious URLs & Files](#investigate-suspicious-urls--files)
+    - [Computer Science](#computer-science)
 
 ## IT Professions
 
@@ -41,4 +42,8 @@
 
 ### Investigate suspicious URLs & Files
 
-- [Virus Total](https://www.virustotal.com/gui/home/url) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+- [Virus Total](https://www.virustotal.com/gui/home/url) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the IT security community.
+### Computer Science
+
+- [Decompiler Explorer](https://dogbolt.org/) - Interactive online decompiler which shows equivalent C-like output of decompiled programs from many popular decompilers.
+- [Compiler Explorer](https://godbolt.org/) - Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more).
