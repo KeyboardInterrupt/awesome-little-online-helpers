@@ -9,6 +9,7 @@
     - [Web Development/Design](#web-developmentdesign)
     - [Investigate suspicious URLs & Files](#investigate-suspicious-urls--files)
     - [Computer Science](#computer-science)
+- [Social Media Metrics](#social-media-metrics)
 
 ## IT Professions
 
@@ -47,3 +48,9 @@
 
 - [Decompiler Explorer](https://dogbolt.org/) - Interactive online decompiler which shows equivalent C-like output of decompiled programs from many popular decompilers.
 - [Compiler Explorer](https://godbolt.org/) - Interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more).
+
+## Social Media Metrics
+
+Small manual calculators for interpreting social content metrics.
+
+- [FollowerBestellen.de Engagement Rate Calculator](https://followerbestellen.de/tools/engagement-rate) - Free German-language browser calculator for (likes + comments) divided by followers, reach, or views, with a worked example and comparison limits; no registration or profile lookup.
