@@ -19,6 +19,7 @@
 - [gitignore.io](https://www.toptal.com/developers/gitignore) - Create useful .gitignore files for your project.
 - [README.so](https://readme.so/) - Simple editor that allows you to quickly add and customize all the sections you need for your project's readme.md file.
 - [JSON Hero](https://jsonhero.io/) - JSON Hero makes reading and understand JSON files easy by giving you a clean and beautiful UI.
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) - Compare JSON structures locally in the browser and inspect added, removed or changed values by path.
 
 ### IT Administration
 
