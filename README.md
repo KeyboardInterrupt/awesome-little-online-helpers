@@ -40,6 +40,8 @@
 - [Undesign](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers.
 - [CSS Generator Tool](https://cssgenerator.org/) - A CSS generator that helps you demonstrate and quickly generate CSS declarations for your website.
 
+- [Fomrix](https://fomrix.com/glb-viewer) - Free browser GLB viewer for inspecting web 3D model geometry, materials and textures without an account.
+
 ### Investigate suspicious URLs & Files
 
 - [Virus Total](https://www.virustotal.com/gui/home/url) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the IT security community.
