@@ -31,6 +31,7 @@
 - [endoflife.date](https://endoflife.date) - This site maintains quick links for checking End Of Life dates for various tools and technologies.
 
 ### Web Development/Design
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Compress and convert PNG/JPG/HEIC/WebP/AVIF images in the browser; core processing stays on-device.
 - [www.urlencoder.io](https://www.urlencoder.io/) - This helps with quickly encoding URL's.
 - [www.urldecoder.io](https://www.urldecoder.io/) - This helps with quickly decoding URL's.
 - [Animista](https://animista.net/) - A collection of pre-made CSS animations, tweak them and you will be able to copy and paste the code into your website.
