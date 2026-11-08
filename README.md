@@ -22,6 +22,7 @@
 
 ### IT Administration
 
+- [Calculation Hub Cloud Hosting Cost Calculator](https://calculation-hub.com/financial/cloud-hosting-cost) - Free first-pass hosting estimates from editable compute, storage, transfer and service rates, with assumptions and exclusions.
 - [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html) - This calculator returns information regarding Internet Protocol version 4 (IPv4) and IPv6 subnets.
 - [Chmod Calculator](https://chmod-calculator.com/) - An awesome Chmod Calculator to convert Linux file permissions between different formats.
 - [crontab guru](https://crontab.guru/) - Quick and simple editor for cron schedule expressions.
