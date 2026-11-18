@@ -39,6 +39,7 @@
 - [Meta Tags](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more.
 - [Undesign](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers.
 - [CSS Generator Tool](https://cssgenerator.org/) - A CSS generator that helps you demonstrate and quickly generate CSS declarations for your website.
+- [PixelArtHive](https://pixelarthive.com/) - Convert images to pixel art and resize existing pixel art in the browser, with local image processing.
 
 ### Investigate suspicious URLs & Files
 
