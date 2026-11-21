@@ -39,6 +39,7 @@
 - [Meta Tags](https://metatags.io/) - With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more.
 - [Undesign](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers.
 - [CSS Generator Tool](https://cssgenerator.org/) - A CSS generator that helps you demonstrate and quickly generate CSS declarations for your website.
+- [ToolPixi](https://toolpixi.com/) - 145 free online tools (image converters, PDF tools, calculators and text utilities) that run entirely in the browser, so files never leave your device. No signup.
 
 ### Investigate suspicious URLs & Files
 
